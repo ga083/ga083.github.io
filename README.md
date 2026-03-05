@@ -72,13 +72,6 @@ Because all data is stored locally on your device, you have full control over it
 
 We may update this privacy policy from time to time. Changes will be reflected by updating the "Last updated" date at the top of this document. Continued use of the app after any changes constitutes acceptance of the updated policy.
 
-## Contact
-
-If you have questions or concerns about this privacy policy or the handling of your data, please contact us at:
-
-**MellonTec**
-[Your contact email address]
-
 ---
 
 *Exchange Diet is not a medical device and is not intended to replace professional medical advice. Always consult your healthcare provider regarding your diabetes management plan.*
